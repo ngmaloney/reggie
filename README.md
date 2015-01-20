@@ -9,7 +9,7 @@ for `find -exec` or `xargs`? Reggie don't care.
 
 Usage
 =====
-reggie "(jpg|mov)" ~/mystuff /mnt/backup/mystuff
+`reggie "(jpg|mov)" ~/mystuff /mnt/backup/mystuff`
 
 Options
 =======
